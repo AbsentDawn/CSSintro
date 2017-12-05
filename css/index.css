@@ -5,8 +5,12 @@ body{
 
 li{
 	font-weight: bold;
-	font-size: 16px;
+	font-size: 16px !important;
 	color: #AABBCC;
+}
+
+li{
+	font-size: 12px;
 }
 
 #active {
